@@ -19,7 +19,7 @@
 }
 
 .view-container{
-    margin-top:20px;
+    margin-top:40px;
 }
 .cart-order{
     margin:0 auto;
@@ -538,3 +538,6 @@ footer {
     transform: translateY(0px);
 }
 
+.view-xontainer {
+    margin: 50px 0;
+}
